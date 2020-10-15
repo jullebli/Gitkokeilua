@@ -1,1 +1,5 @@
+
 Olipa kerran TKT-opiskelija, joka kokeili ensimmäisen kerran Gittiä. Ja siitä koko maailma aukesi.
+
+
+Muutetaan viimeistä lausetta.
