@@ -1,4 +1,1 @@
-
-Tämä rivi on luotu githubissa
-Tämä rivi on luotu paikallisesti
-Luodaan toinen rivi githubissa (tehtävä 9)
+terveisiä mun koneelta
